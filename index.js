@@ -26,7 +26,7 @@ const friendShip = document.getElementById("friendShip")
 
 async function main() {
     // Initialize LIFF app)
-    await liff.init({ liffId: "11657027533-J0an6Rg7" })
+    await liff.init({ liffId: "1657027533-Q38qoO29" })
 
     // Try a LIFF function
     switch (liff.getOS()) {
